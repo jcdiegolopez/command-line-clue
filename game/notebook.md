@@ -20,4 +20,5 @@
 - finded clue in meeting roomsm go to e kitchen in the shops
 - finded clue in kitchen is the place where chrime ocurred
 - finded police office and bronze trophy in school
+- finded leather gloves and musician in town hall
 
