@@ -14,3 +14,5 @@
 *Use this space to record your findings and deductions...*
 
 - finded clue in game Teacher mentioning somoething strange near cottage
+- finded clue in cottage go to the gazebo in the park
+
