@@ -18,4 +18,6 @@
 - finded clue in gazebo go back to the art room in school
 - finded clue in art room go back checking the meeting rooms in the town hall
 - finded clue in meeting roomsm go to e kitchen in the shops
+- finded clue in kitchen is the place where chrime ocurred
+- finded police office and bronze trophy in school
 
