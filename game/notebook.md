@@ -15,4 +15,5 @@
 
 - finded clue in game Teacher mentioning somoething strange near cottage
 - finded clue in cottage go to the gazebo in the park
+- finded clue in gazebo go back to the art room in school
 
