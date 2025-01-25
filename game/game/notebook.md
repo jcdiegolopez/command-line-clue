@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Clockmaker
+- [ x ] The Clockmaker
 - [ x ] The Shopkeeper
 - [ ] The Gardener
 
@@ -18,4 +18,8 @@
 - Clue Security cameras caught movement near the playground entrance.
 - Finded the shopkeeper in playgorund 
 - Finded clue Maybe we should check back in the school
+- Finded the clockmaker in the school
+- Finded clue The dust on the floor shows a clear path heading to the cafeteria.
+
+
 
