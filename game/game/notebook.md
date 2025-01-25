@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ x ] Paint Brush
-- [ ] Brass Candlestick
+- [ x ] Brass Candlestick
 - [ ] Glass Bottle
 
 ## Notes
@@ -20,6 +20,8 @@
 - Finded clue Maybe we should check back in the school
 - Finded the clockmaker in the school
 - Finded clue The dust on the floor shows a clear path heading to the cafeteria.
+- Finded the Brass Candlestick in the kitche
+- Finded clue Go back and check the kitchen in the school.
 
 
 
