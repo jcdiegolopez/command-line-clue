@@ -167,10 +167,12 @@ class MysteryGame:
     for person in distribution_people:
       room = random.choice(available_rooms)
       self.room_contents[room]["people"].append(person)
+      print(f"Placing {person} in {room}")
 
     for obj in distribution_objects:
       room = random.choice(self.all_rooms)
       self.room_contents[room]["objects"].append(obj)
+      print(f"Placing {obj} in {room}")
 
   def generate_notebook(self):
     """Generates the content for notebook.md"""
