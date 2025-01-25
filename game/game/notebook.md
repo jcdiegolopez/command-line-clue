@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Clockmaker
-- [ ] The Shopkeeper
+- [ x ] The Shopkeeper
 - [ ] The Gardener
 
 ## Weapons
@@ -16,4 +16,6 @@
 - The night watchman spoke with The Tailor, who noticed an unfamiliar figure lurking near the gazebo.
 - Finded paint brush in gazebo
 - Clue Security cameras caught movement near the playground entrance.
+- Finded the shopkeeper in playgorund 
+- Finded clue Maybe we should check back in the school
 
